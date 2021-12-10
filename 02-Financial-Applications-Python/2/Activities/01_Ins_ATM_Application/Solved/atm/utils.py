@@ -32,3 +32,17 @@ def validate_pin(pin):
         return True
     else:
         return False
+
+# input accounts: list of dictionaries  [{acc1}, {acc2}, {acc3}]
+def update_accounts(account, accounts):
+    updated_accounts = []
+    for acc in accounts:
+        if acc['pin'] == account['pin']:
+            acc['balance'] = account['balance']
+        updated_accounts.append(acc)
+    csvpath = Path('data/updated_accounts.csv')
+    with open(csvpath, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter = ',')
+        csvwriter.writerow( ["pin", "balance"] )
+        for acc in updated_accounts:
+            csvwriter.writerow( [acc['pin'], acc['balance']] )

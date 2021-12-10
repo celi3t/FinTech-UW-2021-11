@@ -13,6 +13,7 @@ import questionary
 from utils import (
     load_accounts,
     validate_pin,
+    update_accounts
 )
 
 from actions.make_deposit import make_deposit
@@ -77,6 +78,8 @@ def run():
     )
 
     # @TODO: As a bonus, try writing the adjusted account balance back to the CSV file.
+    accounts = load_accounts()
+    update_accounts(account, accounts)
 
 
 # Entry point for the application. Initiates the run() function.
