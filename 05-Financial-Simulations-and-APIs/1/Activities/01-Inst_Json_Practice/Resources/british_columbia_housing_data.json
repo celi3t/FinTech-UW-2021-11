@@ -1,0 +1,45 @@
+{
+   "dataset": {
+      "id": 34650752,
+      "dataset_code": "HPPU50_BC",
+      "database_code": "CMHC",
+      "name": "Average, Median and Price Percentiles for Unabsorbed Homeowner and Condominium Units (Provinces) - British Columbia",
+      "description": "Average, Median and Price Percentiles for Unabsorbed Homeowner and Condominium Units (Provinces). For more information, please see <a href=https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/ScsMasMethodology>https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/ScsMasMethodology</a>",
+      "refreshed_at": "2021-01-01T03:25:42.027Z",
+      "newest_available_date": "2020-11-30",
+      "oldest_available_date": "1990-01-31",
+      "column_names": [
+         "Date",
+         "1st 20%",
+         "2nd 40%",
+         "3rd 60%",
+         "4th 80%",
+         "Median",
+         "Average",
+         "Units"
+      ],
+      "frequency": "monthly",
+      "type": "Time Series",
+      "premium": false,
+      "limit": null,
+      "transform": null,
+      "column_index": null,
+      "start_date": "2020-11-30",
+      "end_date": "2020-11-30",
+      "data": [
+         [
+            "2020-11-30",
+            870000.0,
+            1245000.0,
+            1640000.0,
+            2542000.0,
+            1450000.0,
+            1924937.0,
+            1051.0
+         ]
+      ],
+      "collapse": null,
+      "order": null,
+      "database_id": 234
+   }
+}
