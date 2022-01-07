@@ -1,0 +1,97 @@
+Id,Longitude,Latitude,Name,PlaceType,Borough
+90,-73.88895812,40.89620987,Van Cortlandt Park,Park,Bronx
+95,-73.87165103,40.88987947,Woodlawn Cemetery,Cemetery,Bronx
+81,-73.83864189,40.88696522,Seton Falls Park,Park,Bronx
+69,-73.80980242,40.87798555,Pelham Bay Park,Park,Bronx
+8,-73.87830776,40.86442395,Botanical Garden,Garden,Bronx
+9,-73.87626064,40.85552207,Bronx Park,Park,Bronx
+78,-73.83530397,40.82330815,Saint  Raymond's Cemetery,Cemetery,Bronx
+27,-73.8328464,40.81434338,Ferry Point Park,Park,Bronx
+84,-73.8721731,40.8154443,Sound View Park,Park,Bronx
+21,-73.89422937,40.8384766,Crotona Park,Park,Bronx
+96,-73.87523757,40.84900595,Zoo/Wildlife Conser. Park,Park,Bronx
+42,-73.76975724,40.85136497,Hart Island,Island,Bronx
+79,-73.9117582,40.81147588,Saint Mary's Park,Park,Bronx
+45,-73.92618083,40.87219333,Inwood Hill Park,Hill Park,Manhattan
+36,-73.93190269,40.86299077,Fort Tryon Park,Park,Manhattan
+74,-73.88276248,40.79198053,Rikers Island,Island,Queens
+57,-73.94268046,40.80345957,Marcus Garvey Park,Park,Manhattan
+72,-73.92169947,40.79591467,Randall's Island Park,Park,Manhattan
+91,-73.92997389,40.78428432,Ward's Island Park,Park,Manhattan
+15,-73.96565599,40.78288158,Central Park,Park,Manhattan
+18,-73.98190208,40.76806053,Columbus Circle,Circle,Manhattan
+88,-73.98179379,40.7580213,Times Square,Square,Manhattan
+56,-73.98806663,40.7421814,Madison Square,Square,Manhattan
+89,-73.9903801,40.73595972,Union Square,Square,Manhattan
+39,-74.01838919,40.68941551,Governors Island,Island,Manhattan
+59,-73.95198134,40.7208997,McCarren Park,Park,Brooklyn
+3,-73.92426901,40.77679234,Astoria Park,Park,Queens
+7,-73.96612486,40.66993701,Botanic Garden,Garden,Brooklyn
+71,-73.96908664,40.66125082,Prospect Park,Park,Brooklyn
+41,-73.99044122,40.65204691,Greenwood Cemetery,Cemetery,Brooklyn
+44,-73.93764826,40.64686106,Holy Cross Cemetery,Cemetery,Brooklyn
+11,-74.0185757,40.65508508,Bush Terminal,Terminal,Brooklyn
+68,-74.03230852,40.63995895,Owls Head Park,Park,Brooklyn
+32,-74.02879133,40.60738115,Fort Hamilton,Hamilton,Brooklyn
+25,-74.01956103,40.61146403,Dyker Beach Park,Park,Brooklyn
+92,-73.97543204,40.62022207,Washington Cemetery,Cemetery,Brooklyn
+58,-73.92408613,40.60336225,Marine Park,Park,Brooklyn
+28,-73.89009561,40.59129948,Floyd Bennett Field,Field,Brooklyn
+14,-73.89810825,40.62548604,Canarsie Beach Park,Park,Brooklyn
+2,-73.83062352,40.67219433,Aqueduct Race Track,Track,Queens
+5,-73.85499266,40.67728706,Bayside Cemetery,Cemetery,Queens
+10,-73.75238277,40.65190821,Brookville Park,Park,Queens
+4,-73.78691601,40.67324965,Baisley Pond Park,Park,Queens
+76,-73.77202425,40.68791059,Roy Wilkins Park,Park,Queens
+30,-73.84584799,40.7035956,Forest Park,,Queens
+23,-73.87614172,40.69584153,Cypress Hills Cemetery,Cemetery,Queens
+77,-73.86698585,40.71516417,Saint  Johns Cemetery,Cemetery,Queens
+54,-73.91396904,40.71048991,Linden Hill Cemetery,Cemetery,Queens
+65,-73.89594771,40.72084097,Mount Olivet Cemetery,Cemetery,Queens
+49,-73.87963219,40.72035303,Juniper Valley Park,Park,Queens
+55,-73.88748458,40.71223625,Lutheran Cemetery,Cemetery,Queens
+61,-73.7417316,40.68584033,Montefiore Cemetery,Cemetery,Queens
+29,-73.84141525,40.73799908,Flushing Meadows Corona Park,Corona,Queens
+63,-73.83033793,40.73409273,Mount Hebron Cemetery,Cemetery,Queens
+50,-73.80410217,40.74458008,Kissena Park,,Queens
+22,-73.76903038,40.72903318,Cunningham Park,Park,Queens
+35,-73.7770396,40.79253916,Fort Totten,Totten,Queens
+16,-73.78886383,40.78258966,Clearview Park,Park,Queens
+20,-73.76899845,40.77133495,Crocheron Park,Park,Queens
+1,-73.74427173,40.75365741,Alley Pond Park,Park,Queens
+24,-73.73228698,40.75164378,Douglaston Park,Park,Queens
+33,-73.7931197,40.8056467,Fort Schuyler,Schuyler,Bronx
+12,-73.93013732,40.73338238,Calvary Cemetery,Cemetery,Queens
+67,-73.91314739,40.73707174,New Calvary Cemetery,Cemetery,Queens
+66,-73.90791234,40.73205824,Mount Zion Cemetery,Cemetery,Queens
+46,-73.87158393,40.56788176,Jacob Riis Park,Park,Queens
+34,-73.89490043,40.56163026,Fort Tilden,Tilden,Queens
+53,-74.04528227,40.69000021,Liberty Island,Island,Manhattan
+26,-74.04017359,40.69919477,Ellis Island,Island,Manhattan
+83,-74.10316989,40.64230187,Snug Harbor,Harbor,Staten Island
+82,-74.0946033,40.62728628,Silver Lake Park,Park,Staten Island
+17,-74.11069895,40.61811022,Clove Lakes Park,Park,Staten Island
+37,-74.05881837,40.60438473,Fort Wadsworth,Wadsworth,Staten Island
+60,-74.0988295,40.56802528,Miller Field,Field,Staten Island
+40,-74.12560544,40.54844479,Great Kills Park,Park,Staten Island
+62,-74.11735759,40.58271473,Moravian Cemetery,Cemetery,Staten Island
+52,-74.14250377,40.58215534,LaTourette Park,Park,Staten Island
+93,-74.15824653,40.60061999,Willowbrook Park,Park,Staten Island
+6,-74.17535438,40.53125317,Blue Heron Park,Park,Staten Island
+94,-74.19242925,40.52173963,Wolfe's Pond Park,Park,Staten Island
+64,-74.21806393,40.50966469,Mount Loretto,Loretto,Staten Island
+19,-74.24856464,40.49956589,Conference House Park,Park,Staten Island
+85,-74.20503666,40.5511835,South Shore Golf Course,Golf,Staten Island
+38,-74.19497651,40.57405693,Fresh Kills,Kills,Staten Island
+70,-73.91512178,40.58319524,Plumb Beach,Beach,Brooklyn
+48,-73.78599901,40.64806756,John F. Kennedy International Airport,International Airport,Queens
+51,-73.87428091,40.7754156,LaGuardia Airport,,Queens
+47,-73.82628899,40.62287746,Jamaica Bay Wildlife Refuge,Wildlife Refuge,Brooklyn
+13,-73.99369533,40.58507539,Calvert Vaux,Park,Brooklyn
+43,-74.11492037,40.59043473,High Rock Park,Park,Staten Island
+73,-74.00555273,40.67204727,Red Hook Park,Park,Brooklyn
+80,-73.89847195,40.76444876,Saint Michael's Cemetery,Cemetery,Queens
+75,-73.91682911,40.89230557,Riverdale Park,Park,Bronx
+31,-73.86271387,40.69944758,Forest Park Golf Course,,Queens
+87,-73.86501942,40.64582807,Spring Creek Park Preserve No Access,Park,Brooklyn
+86,-73.84421119,40.646316,Spring Creek Park Gateway National Recreation Area,Park,Queens
