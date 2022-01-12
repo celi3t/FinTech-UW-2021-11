@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,age,address,city,state,zip_code
+1,Michael,Meyer,24,1021 Eddie Knolls Apt. 087,South Geraldton,RI,43709
+2,Cindy,Stephens,23,838 Brown Street,East Christina,MT,7829
+3,John,Jackson,34,5319 Candice Motorway,Adkinstown,AZ,89721
+4,Alexander,Martinez,32,USNS Mosley,FPO,AA,24673
+5,John,Pugh,36,175 Sullivan Isle Suite 666,Brendanshire,KY,25231
+6,Ashley,Chan,34,108 Lee Parkway,Deborahberg,OK,20955
+7,Matthew,Kramer,34,Unit 5957 Box 6186,DPO,AP,74424
+8,Tammy,Soto,27,23071 Renee Land,Jamieville,MO,40734
+9,Christopher,Kirby,18,1052 Edward Knoll Suite 288,New Regina,WY,50805
+10,Krystal,Huang,21,811 Linda Ridge Suite 074,Port Andrea,WY,79992
+11,Sandra,Jimenez,34,Unit 8878 Box 9370,DPO,AA,47704
+12,Dawn,Black,26,253 Emily Union Apt. 809,Port Wendyside,NE,10784
+13,Christina,Henderson,33,2407 Gavin River,South Brittneyton,MT,62396
+14,Sheila,Foster,33,5360 Rebecca Circles,Josephchester,AZ,51015
+15,Marvin,Cruz,25,8667 Henderson Isle Suite 805,East Robertview,AR,14934
+16,Shannon,Thompson,30,49367 Perkins Burg Apt. 845,Michaelburgh,IA,43200
+17,Jessica,Brown,33,72547 John Village,Estesstad,ID,41957
+18,George,Scott,36,8882 Morales Mews,South Courtneybury,NH,18411
+19,Gregory,Green,36,4148 Mullen Mountain,Lake Mollychester,MD,26998
+20,Brooke,Armstrong,33,"PSC 4729, Box 2681",APO,AP,65043
+21,Bethany,Williams,27,4886 Mills Dale Suite 147,Justinmouth,AZ,50230
+22,Sherry,Mooney,28,"PSC 9039, Box 7200",APO,AP,47690
+23,Stephen,Guerrero,20,14009 Robin Burgs,Michaelborough,NV,41397
+24,Brandon,Lewis,30,9514 Andrea Heights,Port Williemouth,NJ,10383
+25,William,Morris,20,10016 Brianna Corners,Spencerborough,HI,30578
+26,Meredith,Turner,34,85625 Amanda Rest Apt. 602,Jessicamouth,VT,79948
+27,Dawn,Meyers,29,74311 Sandra Fork,Danielhaven,NJ,74384
+28,Frank,Morales,30,106 Jacobson Cape Suite 271,East Darren,OH,22376
+29,Rebecca,Robertson,39,630 Gallagher Springs Suite 091,Martinezton,CO,97611
+30,Nicholas,Brown,29,75960 Mcguire Prairie,Aprilhaven,AL,80265
+31,Vernon,Johnston,24,1410 Stevens Underpass Suite 213,Jefferymouth,NY,51400
+32,Sandra,Rodriguez,28,5761 Leslie Islands,Mendozachester,HI,79939
+33,Jennifer,Cooper,26,85295 Baker Loop Suite 699,Jonesland,NH,72283
+34,Adam,Jones,32,99630 Martin Throughway,West Timothybury,OH,1931
+35,Thomas,Hart,19,USNV Henderson,FPO,AA,89241
+36,Keith,Thomas,37,705 Lisa Oval,Port Manuel,DC,80060
+37,Willie,Morris,33,5428 Kevin Ports Suite 214,New Stephanieborough,ID,78160
+38,Kelly,Joyce,32,165 Miller Crossing,Mariafurt,GA,90387
+39,Victoria,Romero,19,637 Greg Street,Robertton,CT,49369
+40,Denise,Hamilton,30,43956 Manuel Key,East Lindachester,AL,86491
+41,Mary,Rosales,30,50398 Chase Springs,North Nicholas,MD,61035
+42,Gregory,Myers,36,33233 Phillips Inlet Apt. 376,South Joshuafurt,TX,34411
+43,Kyle,Dean,30,92016 Allison Mission Apt. 998,New Tony,MD,13709
+44,Allison,Keith,28,4493 Erica Shore,North Travisshire,MD,34943
+45,Marisa,Schmitt,31,467 Durham Trafficway Apt. 930,Cristianhaven,ME,48819
+46,Mrs.,Female,25,1171 Boyd Manors,Tuckertown,WI,77834
+47,Randy,Johnson,24,58221 Jennifer Corners Apt. 264,Williamside,OH,23487
+48,Michelle,Becker,21,0665 Robert Track,Port Anthonystad,MI,48071
+49,Taylor,Hill,25,700 John Hollow Apt. 501,Port Thomasland,WV,26738
+50,Amy,Dorsey,38,5695 Jacobs Streets Apt. 364,East Dennisfort,VT,16334
+51,Michael,Hendrix,29,74752 Baker Brooks Apt. 675,Brentstad,ID,40066
+52,Nancy,Bowman,27,32735 Smith Port Suite 901,New Jeffreyshire,TN,88996
+53,Andrea,Myers,41,8048 Nielsen Crescent,West Douglas,DE,43315
+54,Mike,Ward,35,8228 Lisa Hill,Port Ericbury,AK,39672
+55,Steven,Flores,28,33769 West Throughway Suite 135,Jamesport,FL,11413
+56,John,Rogers,25,3369 Todd Manors,North Amanda,KS,64441
+57,Angela,Johnson,33,97838 Ethan Crossroad,South Jacquelineside,VT,39949
+58,Meredith,Crawford,30,7293 Kristen Center Apt. 916,East Lisa,SD,9925
+59,Jon,Smith,33,698 Mcgee Dale,Jerryside,HI,94831
+60,Eugene,Klein,36,79575 Bennett Inlet,Davishaven,AK,77171
+61,Russell,Smith,37,4308 Leonard Islands,Matthewview,GA,57971
+62,Maria,Bennett,23,676 Jeffery Land,Courtneyberg,CA,5181
+63,Rebecca,Deleon,36,6546 Mark Pines,East Jacqueline,VA,48381
+64,Tiffany,Cook,43,80543 Tracy Spring Suite 371,Rodriguezshire,KY,75101
+65,Dr.,Male,33,017 Morton Bypass,Kaitlyntown,WI,39081
+66,Annette,Mcguire,41,55949 Anthony Trafficway Suite 183,Bakerhaven,IL,94252
+67,Jessica,Griffin,27,34521 Jamie Ports,South Michaelborough,MA,50024
+68,Susan,Campbell,33,"PSC 5128, Box 4968",APO,AP,74933
+69,Kyle,Thomas,35,4238 Ford Trail Apt. 072,Port Stephaniechester,MO,81588
+70,Valerie,Fisher,33,28669 Ruth Extensions,Lake Joseph,WV,67044
+71,Paul,Gonzales,30,86582 Michelle Canyon Apt. 962,South Alexander,NJ,2064
+72,Michele,Jones,25,Unit 5247 Box 7057,DPO,AE,78128
+73,Rodney,Jennings,36,30710 Thomas Hollow,Stoneville,DE,52909
+74,Ray,Brown,35,3875 Ellen Lights Suite 733,North Gabriellafurt,MI,67003
+75,Amy,Castro,40,583 Rhonda Ranch Suite 447,New Billybury,ND,34700
+76,Blake,Williams,26,1656 Schultz Landing,Alexanderhaven,ND,82448
+77,James,Morales,21,937 Tammy Cliffs,Munozmouth,IN,44121
+78,Tracy,Pham,27,1849 Christian Way Suite 078,Hillshire,KY,93291
+79,William,Berger,35,506 Katrina Stravenue,East Michelle,AL,9882
+80,Suzanne,Miller,31,49737 Danielle Underpass Suite 871,Randallshire,MA,88845
+81,Michael,Miranda,25,4701 Cruz Springs Suite 485,South Ryanmouth,MI,60410
+82,Nancy,Andrews,26,300 Buckley Fall,Port Paulside,MI,25420
+83,Steven,Proctor,35,331 David Spur Apt. 611,South Lisa,KS,54849
+84,Madison,Murphy,18,58864 David Village,Port Kenneth,VA,11644
+85,Benjamin,Barry,29,2638 David Center,North Staceyshire,NH,57682
+86,Alexandra,Barton,22,1622 Anthony Bypass,Jasmineview,KY,83980
+87,April,Kim,27,68886 Sarah Locks Suite 156,New Jennifer,NM,76605
+88,Christopher,Baker,30,85213 Austin Harbors,Keyfurt,SD,69451
+89,Randall,Dean,27,2917 Sarah Rue,Smithchester,KS,24349
+90,Oscar,Flores,35,352 Nelson Ford,Houseport,GA,94961
+91,Mitchell,Spencer,27,4565 Harris Curve Suite 744,Richardshire,AL,84498
+92,Gary,Snyder,30,48040 Smith Ramp Suite 509,East Francesmouth,MA,38003
+93,Lisa,Armstrong,32,5083 Justin Cliffs,West Amy,WY,8481
+94,Jeremy,Norris,32,22734 Rivera Knolls Suite 040,Port Thomas,MO,1673
+95,Michael,Wheeler,29,403 Glenn Ville Suite 118,East Ericbury,OH,11320
+96,April,Ross,34,076 James Rapid Suite 654,West Jessica,MO,42331
+97,Jessica,Lynch,30,USNS Andrews,FPO,AA,17102
+98,Donna,Bray,34,58964 April Knoll,Hendrixchester,MI,31600
+99,Carolyn,Williams,34,875 Rivas Alley,Butlerton,MA,81141
+100,Lee,Sweeney,25,USCGC Caldwell,FPO,AA,30090
