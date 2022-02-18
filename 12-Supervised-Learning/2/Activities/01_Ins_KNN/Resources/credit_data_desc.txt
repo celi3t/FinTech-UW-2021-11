@@ -1,0 +1,128 @@
+This dataset was provided by a German lender for use in determining credit risk of loan applicants.
+
+$`status` - Salary is in Deutschmarks (DM)
+                                               
+ 1 : no checking account                       
+ 2 : ... < 0 DM                                
+ 3 : 0<= ... < 200 DM                          
+ 4 : ... >= 200 DM / salary for at least 1 year
+
+$`duration` - Account history age
+     
+
+$`credit_history`
+                                                
+ 0 : delay in paying off in the past            
+ 1 : critical account/other credits elsewhere   
+ 2 : no credits taken/all credits paid back duly
+ 3 : existing credits paid back duly till now   
+ 4 : all credits at this bank paid back duly    
+
+$`purpose`
+                        
+ 0 : others             
+ 1 : car (new)          
+ 2 : car (used)         
+ 3 : furniture/equipment
+ 4 : radio/television   
+ 5 : domestic appliances
+ 6 : repairs            
+ 7 : education          
+ 8 : vacation           
+ 9 : retraining         
+ 10 : business          
+
+$`amount`
+     
+
+$`savings` - Savings is in Deutschmarks (DM)
+                               
+ 1 : unknown/no savings account
+ 2 : ... <  100 DM             
+ 3 : 100 <= ... <  500 DM      
+ 4 : 500 <= ... < 1000 DM      
+ 5 : ... >= 1000 DM            
+
+$`employment_duration`
+                     
+ 1 : unemployed      
+ 2 : < 1 yr          
+ 3 : 1 <= ... < 4 yrs
+ 4 : 4 <= ... < 7 yrs
+ 5 : >= 7 yrs        
+
+$`installment_rate`
+                   
+ 1 : >= 35         
+ 2 : 25 <= ... < 35
+ 3 : 20 <= ... < 25
+ 4 : < 20                             
+
+$`other_debtors`
+                 
+ 1 : none        
+ 2 : co-applicant
+ 3 : guarantor   
+
+$`present_residence`
+                     
+ 1 : < 1 yr          
+ 2 : 1 <= ... < 4 yrs
+ 3 : 4 <= ... < 7 yrs
+ 4 : >= 7 yrs        
+
+$`property`
+                                              
+ 1 : unknown / no property                    
+ 2 : car or other                             
+ 3 : building soc. savings agr./life insurance
+ 4 : real estate                              
+
+$`age`
+     
+
+$`other_installment_plans`
+           
+ 1 : bank  
+ 2 : stores
+ 3 : none  
+
+$`housing`
+             
+ 1 : for free
+ 2 : rent    
+ 3 : own     
+
+$`number_credits`
+         
+ 1 : 1   
+ 2 : 2-3 
+ 3 : 4-5 
+ 4 : >= 6
+
+$`job`
+                                               
+ 1 : unemployed/unskilled - non-resident       
+ 2 : unskilled - resident                      
+ 3 : skilled employee/official                 
+ 4 : manager/self-empl./highly qualif. employee
+
+$`people_liable` aka Dependencies
+              
+ 1 : 3 or more
+ 2 : 0 to 2   
+
+$`telephone`
+                              
+ 1 : no                       
+ 2 : yes (under customer name)
+
+$`foreign_worker`
+        
+ 1 : yes
+ 2 : no 
+
+$`credit_risk`
+         
+ 0 : bad 
+ 1 : good
